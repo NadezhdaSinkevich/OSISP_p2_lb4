@@ -1,0 +1,67 @@
+﻿  stdafx.cpp
+  AboutDialog.cpp
+  Button.cpp
+D:\лб\OSiSP_PhoneBook-master\OSiSP_PhoneBook\Button.cpp(15,23): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  ComboBox.cpp
+D:\лб\OSiSP_PhoneBook-master\OSiSP_PhoneBook\ComboBox.cpp(18,24): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+D:\лб\OSiSP_PhoneBook-master\OSiSP_PhoneBook\ComboBox.cpp(23,13): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+D:\лб\OSiSP_PhoneBook-master\OSiSP_PhoneBook\ComboBox.cpp(47,33): warning C4244: инициализация: преобразование "LRESULT" в "unsigned int", возможна потеря данных
+D:\лб\OSiSP_PhoneBook-master\OSiSP_PhoneBook\ComboBox.cpp(50,32): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  Dialog.cpp
+  DialogManager.cpp
+  Edit.cpp
+D:\лб\OSiSP_PhoneBook-master\OSiSP_PhoneBook\Edit.cpp(15,24): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  EditingWindow.cpp
+  Label.cpp
+D:\лб\OSiSP_PhoneBook-master\OSiSP_PhoneBook\Label.cpp(15,24): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  ListView.cpp
+D:\лб\OSiSP_PhoneBook-master\OSiSP_PhoneBook\ListView.cpp(17,28): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+D:\лб\OSiSP_PhoneBook-master\OSiSP_PhoneBook\ListView.cpp(91,34): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+  MainWindow.cpp
+  OSiSP_PhoneBook.cpp
+  PhonebookListView.cpp
+  PhoneBookNode.cpp
+  PhoneDataBase.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2388,23): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2399): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2399): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2379): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2379): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\лб\OSiSP_PhoneBook-master\OSiSP_PhoneBook\PhoneDataBase.cpp(99): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\лб\OSiSP_PhoneBook-master\OSiSP_PhoneBook\PhoneDataBase.cpp(99): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  Window.cpp
+  WindowManager.cpp
+  Создание кода...
+  OSiSP_PhoneBook.vcxproj -> D:\лб\OSiSP_PhoneBook-master\x64\Debug\OSiSP_PhoneBook.exe
